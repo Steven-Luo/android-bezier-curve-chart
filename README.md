@@ -5,6 +5,7 @@ An Android Library which helps you build a smooth curve line
 ## English Version
 ### Screenshot
 ![Screenshot1](./Screenshot/Screenshot_2014-08-12-11-45-40.png)
+
 ![Screenshot1](./Screenshot/Screenshot_2014-08-12-11-50-51.png)
 
 ### how to
@@ -37,6 +38,7 @@ If you don't want to show the tips on the middle of the chart, set the last para
 
 ### 效果截图
 ![Screenshot1](./Screenshot/Screenshot_2014-08-12-11-46-26.png)
+
 ![Screenshot1](./Screenshot/Screenshot_2014-08-12-11-50-51.png)
 
 ### 使用说明
