@@ -4,8 +4,8 @@ android-bezier-curve-chart
 An Android Library which helps you build a smooth curve line
 ## English Version
 ### Screenshot
-<img src="./Screenshot/Screenshot_2014-08-12-11-45-40.png" style="height:480px"></img>
-<img src="./Screenshot/Screenshot_2014-08-12-11-50-51.png" style="height:480px"></img>
+![Screenshot1](./Screenshot/Screenshot_2014-08-12-11-45-40.png)
+![Screenshot1](./Screenshot/Screenshot_2014-08-12-11-50-51.png)
 
 ### how to
 ##### layout files
@@ -36,8 +36,8 @@ If you don't want to show the tips on the middle of the chart, set the last para
 一个Android曲线绘制视图，利用贝塞尔曲线绘制平滑曲线
 
 ### 效果截图
-<img src="./Screenshot/Screenshot_2014-08-12-11-46-26.png" style="height:480px"></img>
-<img src="./Screenshot/Screenshot_2014-08-12-11-50-51.png" style="height:480px"></img>
+![Screenshot1](./Screenshot/Screenshot_2014-08-12-11-46-26.png)
+![Screenshot1](./Screenshot/Screenshot_2014-08-12-11-50-51.png)
 
 ### 使用说明
 ##### 布局文件
